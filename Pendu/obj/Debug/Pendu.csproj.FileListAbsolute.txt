@@ -1,0 +1,11 @@
+c:\users\alex\documents\visual studio 2013\Projects\Pendu\Pendu\bin\Debug\Pendu.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Pendu\Pendu\bin\Debug\Pendu.exe
+c:\users\alex\documents\visual studio 2013\Projects\Pendu\Pendu\bin\Debug\Pendu.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Pendu\Pendu\obj\Debug\Pendu.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\Pendu\Pendu\obj\Debug\Pendu.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\Pendu\Pendu\obj\Debug\Pendu.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\Pendu\Pendu\obj\Debug\Pendu.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\Pendu\Pendu\obj\Debug\Pendu.exe
+c:\users\alex\documents\visual studio 2013\Projects\Pendu\Pendu\obj\Debug\Pendu.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\Pendu\Pendu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\documents\visual studio 2013\Projects\Pendu\Pendu\obj\Debug\Pendu.Menu.resources
